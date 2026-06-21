@@ -3,4 +3,4 @@ uploads/
 __pycache__/
 *.wav
 *.mp3
-*.pkl
+
