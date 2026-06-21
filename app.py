@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request
 from predict import predict_emotion
 import os
-
 app = Flask(__name__)
 
 UPLOAD_FOLDER = "uploads"
